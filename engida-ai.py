@@ -1,7 +1,7 @@
 import replicate
 import os
 
-os.environ["REPLICATE_API_TOKEN"] = "r8_6T203Mt3gPbqct1Ufi8US9OnmcCxkPv2HuRX3"
+os.environ["REPLICATE_API_TOKEN"] = ""
 from telegram import Update
 from telegram.ext import (
     Application,
@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 
-TOKEN = "7050615933:AAHoisGV_VYukqAb3Gq-u26VWTa8I0K-IHM"
+TOKEN = ""
 bot_username = "@engidacoffeebot"
 
 
