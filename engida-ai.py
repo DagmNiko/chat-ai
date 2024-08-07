@@ -16,7 +16,6 @@ TOKEN = ""
 bot_username = "@engidacoffeebot"
 
 
-https://www.pythonanywhere.com/registration/confirm_email/66525c4a2e26a5aa33bff57a42dcda1cb2ef9bde6e740bac4a7d098e/
 
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
